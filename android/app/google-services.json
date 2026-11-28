@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "687748267454",
+    "firebase_url": "https://catalogo-dropshipping-b9546-default-rtdb.firebaseio.com",
+    "project_id": "catalogo-dropshipping-b9546",
+    "storage_bucket": "catalogo-dropshipping-b9546.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687748267454:android:587c31c2ba71ab48f54def",
+        "android_client_info": {
+          "package_name": "br.com.omni.motorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687748267454-ovtihvsme59dkh707n08kuoh06hnfade.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnpj2a3AMBxe4Sk0MuAZPsunrJEM3aaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687748267454-ovtihvsme59dkh707n08kuoh06hnfade.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687748267454:android:de70ae8f553501f8f54def",
+        "android_client_info": {
+          "package_name": "com.omni.motorista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687748267454-ovtihvsme59dkh707n08kuoh06hnfade.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnpj2a3AMBxe4Sk0MuAZPsunrJEM3aaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687748267454-ovtihvsme59dkh707n08kuoh06hnfade.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
